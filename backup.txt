@@ -1,3 +1,4 @@
+#pragma comment(lib, "dxva2.lib")
 #include <atlstr.h>
 #include <PhysicalMonitorEnumerationAPI.h>
 #include <LowLevelMonitorConfigurationAPI.h>
